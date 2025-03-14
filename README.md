@@ -1,6 +1,6 @@
 # Suzuki Sport Bikes Landing Page  
 
-This repository contains an **illustrative Landing Page** for Suzuki Sport Bikes, built with **Next.js** and styled with **Tailwind CSS**.  
+This repository contains an illustrative Landing Page for Suzuki Sport Bikes, built with Next.js and styled with Tailwind CSS.  
 
 ## 🚀 Technologies Used  
 
